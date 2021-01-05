@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+About Me:
 
 - 🔭 I’m currently working on Hyper Casual Games
 - 🌱 I’m currently learning C++ and DSA
