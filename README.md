@@ -7,7 +7,7 @@ About Me:
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Art and Design
 - 💬 Ask me about Game Development or Unity related stuff
-- 📫 How to reach me: [Youtube](https://www.youtube.com/c/MadFireOn), [Email](madfireongames@gmail.com)
+- 📫 How to reach me: [Youtube](https://www.youtube.com/c/MadFireOn), Email - madfireongames@gmail.com
 
 <a href="https://github.com/swapnilrane24">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilrane24&theme=light&hide_langs_below=1" />
