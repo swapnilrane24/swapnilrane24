@@ -19,6 +19,11 @@ About Me:
 
 <div align="center">
 
+### Join Our Discord Community
+<a href="https://discord.gg/hW7b3VGWmm">
+  <img src="https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" width="200" height="68"/>
+</a>
+
 ### ❤️ Support to keep Projects and Tutorials free for All!
 
 <a href="https://www.patreon.com/bePatron?u=2787703">
