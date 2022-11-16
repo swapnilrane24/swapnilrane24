@@ -9,14 +9,6 @@ About Me:
 - 💬 Ask me about Game Development or Unity related stuff
 - 📫 How to reach me: [Youtube](https://www.youtube.com/c/MadFireOn), Email - madfireongames@gmail.com
 
-<a href="https://github.com/swapnilrane24">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilrane24&theme=light&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/swapnilrane24">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=swapnilrane24&&show_icons=true&title_color=3885EE&icon_color=5194F0&text_color=343434&bg_color=#FFFFFF" />
-</a>
-
 <div align="center">
 
 ### Join Our Discord Community
